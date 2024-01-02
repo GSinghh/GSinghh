@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Resume/CV Application](https://github.com/GSinghh/cv-application)  
   
 
-- 🌱 I’m currently learning Typescript and Hosting Projects Online  
+- 🌱 I’m currently learning Typescript and How to Host Projects Online  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
