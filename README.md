@@ -6,7 +6,7 @@
 ### <div align="center">I'm Gurpreet, a full-time full-stack freelance developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Resume/CV Application](https://github.com/GSinghh/cv-application)  
+- 🔭 I’m currently working on an E-Commerce Platform  
   
 
 - 🌱 I’m currently learning Typescript and REST API Development  
